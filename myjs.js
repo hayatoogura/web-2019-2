@@ -1,1 +1,2 @@
-alert('Hello, Hayato!');
+//alert('Hello, Hayato!');
+//alert(1+1);
